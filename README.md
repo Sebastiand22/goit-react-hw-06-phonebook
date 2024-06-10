@@ -1,2 +1,5 @@
-# goit-react-hw-06-phonebook
-goit-react-hw-06-phonebook
+# React homework template
+- Redux toolkit
+- configureStore()
+- createSlice()
+- Redux Persist
